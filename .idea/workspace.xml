@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="453903dc-42d8-4344-8f95-ad26549eba2c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/joshcam/mysqli-database-class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/1.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/1460ca092f6b6d13.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/2f4621b2c113d203.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/3c133596a8412100.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/6aa0cc13f5ebd112.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/734844baf634f78e.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/77722df939fc2958.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/7c505a77ee0ace0c.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/d39b78ce7911b005.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/d3a25d91be01ced8.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/image/2018/10/f550cb0e9466c25a.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/fonts/ionicons.99ac330.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/fonts/ionicons.d535a25.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/img/teacher.db749b9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/011a7f597d58ed60.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/2bf7dee72e4522c4.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/2c62a769311f5569.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/36c8a933d6db03ed.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/5964f9176ad1d2bd.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/5ab31bf0fec5e618.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/640aace99e38b3f9.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/66418947cdb3a45e.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/7648e6280470bbbc.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/8c25dc49d6767e20.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/8c9beba4eb55af6b.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/a80d9f62f35a1ddb.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/a872944fd3d864c5.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/d2547c86ef2ff9a2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/e99a221c80221c44.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/2018/10/f0c1ab8c5b1f5776.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/easyswoole.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/HttpController/Api/Base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/HttpController/Api/Index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/HttpController/Api/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/HttpController/Category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/HttpController/Index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Lib/Redis/Redis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Config/db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Config/redis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EasySwooleEvent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Temp/pid.pid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Temp/swoole.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easyswoole" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easyswoole.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ini/redis.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bin/easyswoole" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bin/php-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/CronExpression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/FieldFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/FieldInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/AbstractFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/CronExpressionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/DayOfMonthFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/DayOfWeekFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/FieldFactoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/HoursFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/MinutesFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/dragonmantank/cron-expression/tests/Cron/MonthFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/bin/easyswoole" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/EventInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/LoggerWriterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/TriggerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cache/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cache/CacheProcess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cache/Msg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cache/Utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Callback/BaseContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Callback/BroadcastCallbackContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Callback/DefaultCallbackName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Callback/MessageCallbackContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Callback/NodeOffLienCallbackContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Callback/ShutdownCallbackContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Cluster.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Common/BaseServiceProcess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Common/MessageBean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/Common/NodeBean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/NetWork/Deliverer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/NetWork/PacketParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Cluster/NetWork/Udp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Crontab/CronTab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Crontab/Runner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Di.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/I18n/AbstractInterface/ParserInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/I18n/I18n.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/I18n/Parser/PhpParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Invoker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/MultiContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Openssl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Pool/AbstractInterface/AbstractObject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Pool/AbstractInterface/Pool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Pool/PoolManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/AbstractInterface/AbstractRpcService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Client/ServiceResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Client/TaskObj.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Common/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Common/ServiceCaller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Common/ServiceNode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Common/ServiceResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Common/Status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/CoroutineClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Rpc/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Spl/SplArray.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Spl/SplBean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Spl/SplEnum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Spl/SplFileStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Spl/SplStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Spl/SplString.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/SuperClosure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/SysConst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Trigger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/ExceptionHandlerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/REST.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Dispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/ServerRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/UploadFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Uri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Session/Handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Session/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/UrlParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/AbstractInterface/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/AbstractInterface/ExceptionHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/AbstractInterface/ParserInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/AbstractInterface/TcpController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/AbstractInterface/UdpController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/AbstractInterface/WebSocketController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/Client/Tcp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/Client/Udp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/Client/WebSocket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/Common/CommandBean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/Dispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Socket/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Coroutine/Client/Http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Coroutine/Client/Mysql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Coroutine/Client/Redis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Coroutine/Context.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/EventHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/EventRegister.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Memory/AtomicManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Memory/ChannelManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Memory/TableManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/PipeMessage/EventRegister.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/PipeMessage/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Process/AbstractProcess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Process/ProcessManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Task/AbstractAsyncTask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Task/TaskManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Swoole/Time/Timer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Curl/Cookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Curl/Field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Curl/Multi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Curl/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Curl/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Random.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/SnowFlake.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Sort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/ErrorBean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/ErrorList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/Func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/Rule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/Rules.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Utility/Validate/Validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Resource/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Resource/Config.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Resource/EasySwooleEvent.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Resource/welcome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/easyswoole/test/SplStringTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/bin/generator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/bin/generator.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/config/chinese/server/method/send.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/alias/Context.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/alias/Http/Client/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/alias/Http2/Client/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/namespace/Coroutine/Context.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/namespace/Coroutine/Http/Client/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/namespace/Coroutine/Http2/Client/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/namespace/Scheduler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/namespace/Server/Task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/aliases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Atomic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Atomic/Long.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Buffer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Connection/Iterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Channel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Context.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Http/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Http/Client/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Http/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Http2/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Http2/Client/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Iterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/MySQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/MySQL/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/MySQL/Statement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Redis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Scheduler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Socket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/Socket/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Coroutine/System.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/ExitException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Http/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Http/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Http/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Http2/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Http2/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Lock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Process.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Process/Pool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Redis/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Runtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Server/Port.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Server/Task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Table/Row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Timer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/Timer/Iterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/WebSocket/CloseFrame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/WebSocket/Frame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole/namespace/WebSocket/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/aliases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Async.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Async/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Channel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Http/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Memory/Pool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Memory/Pool/Slice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Mmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/MsgQueue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/MySQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/MySQL/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/Redis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_async/namespace/RingQueue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_orm/aliases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_orm/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_postgresql/aliases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_postgresql/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_postgresql/namespace/Coroutine/PostgreSQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_serialize/aliases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_serialize/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/output/swoole_serialize/namespace/Serialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/AbstractStubGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/Constant.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/Rules/AbstractRule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/Rules/NamespaceRule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/StubGenerators/Swoole.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/StubGenerators/SwooleAsync.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/StubGenerators/SwooleOrm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/StubGenerators/SwoolePostgresql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/easyswoole/swoole-ide-helper/src/StubGenerators/SwooleSerialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/AstAnalyzer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/ClosureAnalyzer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/Token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/TokenAnalyzer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/Visitor/ClosureLocatorVisitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/Visitor/MagicConstantVisitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Analyzer/Visitor/ThisDetectorVisitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Exception/ClosureAnalysisException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Exception/ClosureSerializationException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Exception/ClosureUnserializationException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Exception/SuperClosureException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/SerializableClosure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/Serializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jeremeamia/superclosure/src/SerializerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.hhconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/FastRoute.hhi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/psalm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/BadRouteException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/CharCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/GroupCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/GroupPosBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/MarkBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/CharCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/GroupCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/GroupPosBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/MarkBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/RegexBasedAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Route.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteParser/Std.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/CharCountBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/DispatcherTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/GroupCountBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/GroupPosBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/MarkBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/HackTypecheckerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/all_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/empty_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/no_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/RouteCollectorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/RouteParser/StdTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/UPGRADE-1.0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/UPGRADE-2.0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/UPGRADE-3.0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/bin/php-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/0_Introduction.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/2_Usage_of_basic_components.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/3_Other_node_tree_representations.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/4_Code_generation.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Error_handling.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Lexer.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/parser.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/php5.y" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/php7.y" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/rebuildParsers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/tokens.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/tokens.y" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/BuilderAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/BuilderFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeTraverserInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Php5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Tokens.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ParserFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Serializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Unserializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Unserializer/XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/AutoloaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/ClassTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/FunctionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/InterfaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/MethodTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/NamespaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/ParamTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/PropertyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/TraitTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/UseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/BuilderFactoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CodeParsingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CodeTestAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CommentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ErrorHandler/CollectingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ErrorHandler/ThrowingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ErrorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Lexer/EmulativeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/LexerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/NameTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/MagicConstTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/StringTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassConstTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassMethodTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/InterfaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/PropertyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeAbstractTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeTraverserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeVisitor/NameResolverTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Parser/MultipleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Parser/Php5Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Parser/Php7Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ParserFactoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ParserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/PrettyPrinterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Serializer/XMLTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/blockComments.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/comments.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/errorHandling/eofError.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/errorHandling/lexerErrors.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/errorHandling/recovery.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/arrayDestructuring.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/assign.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/assignNewByRef.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/cast.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/clone.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/closure.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/comparison.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/constant_expr.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/errorSuppress.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/exit.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/args.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/constFetch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/constantDeref.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/funcCall.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/newDeref.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/simpleArrayAccess.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticCall.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticPropertyFetch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/includeAndEval.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/issetAndEmpty.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/listWithKeys.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/logic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/math.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/new.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/newWithoutClass.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/print.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/shellExec.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/ternaryAndCoalesce.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/globalNonSimpleVarError.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/indirectCall.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/isset.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/misc.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/new.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/staticProperty.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/variable.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/constantString.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docString.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docStringNewlines.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/encapsedNegVarOffset.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/encapsedString.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/float.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/int.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/invalidOctal.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/magicConst.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/unicodeEscape.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/semiReserved.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/blocklessStatement.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/abstract.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/anonymous.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/conditional.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/constModifierErrors.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/constModifiers.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/final.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/implicitPublic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/interface.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/modifier.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/name.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/php4Style.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/simple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/staticMethod.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/trait.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/const.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/controlFlow.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/declare.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/echo.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/builtinTypeDeclarations.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/byRef.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/conditional.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/defaultValues.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/nullableTypes.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/returnTypes.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/specialVars.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/typeDeclarations.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/variadic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/variadicDefaultValue.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/generator/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/generator/yieldPrecedence.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/generator/yieldUnaryPrecedence.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompiler.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerInvalidSyntax.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerOffset.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerOutermostScope.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/hashbang.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/if.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/inlineHTML.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/do.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/for.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/foreach.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/while.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/multiCatch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/alias.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/braced.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/commentAfterNamespace.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUse.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUseErrors.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUsePositions.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUseTrailingComma.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/invalidName.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/mix.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/name.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/notBraced.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/nsAfterHashbang.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/outsideStmt.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/outsideStmtInvalid.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/switch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/tryCatch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/tryWithoutCatch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/unset.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/comments.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/commentsInCommaList.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/anonymousClass.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/arrayDestructuring.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/call.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/closure.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/constant_deref.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/docStrings.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/include.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/intrinsics.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/list.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/literals.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/numbers.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/operators.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/parentheses.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/shortArraySyntax.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/stringEscaping.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/uvs.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/yield.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/inlineHTMLandPHPtest.file-test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/onlyInlineHTML.file-test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/onlyPHP.file-test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/alias.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/break_continue.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/class.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/class_const.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/const.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/declare.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/do_while.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/for.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/foreach.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/function_signatures.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/global_static_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/goto.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/groupUse.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/haltCompiler.file-test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/if.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/multiCatch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/namespaces.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/nullable_types.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/switch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/throw.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/traitUse.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/tryCatch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/while.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test_old/run-php-src.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test_old/run.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/Php56.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/Binary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/BinaryNoFuncOverload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/BinaryOnFuncOverload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/TestListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/TestListenerForV5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/TestListenerForV6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/TestListenerForV7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/TestListenerTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/css/app.e5adee921ccad42e5bfb3fad59bc1603.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/css/app.e5adee921ccad42e5bfb3fad59bc1603.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/img/ionicons.a2c4a26.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/js/app.bec64f65ddca0c120fa3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/js/app.bec64f65ddca0c120fa3.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/js/manifest.2ae2e69a05c33dfc65f8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/js/vendor.fc176fa160da7ee29efc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/static/js/vendor.fc176fa160da7ee29efc.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/json/0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/json/1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webroot/video/json/3.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+              <folding>
+                <element signature="e#140#172#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Upload.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="26" column="60" lean-forward="false" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+              <folding>
+                <element signature="e#140#172#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Request.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Request.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/ServerRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EasySwooleEvent.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EasySwooleEvent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <element signature="e#108#162#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Redis.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Lib/Redis/Redis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#33#55#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ini/redis.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config/redis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="e#6#103#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="102" column="53" lean-forward="false" selection-start-line="102" selection-start-column="53" selection-end-line="102" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>json</find>
+      <find>hook</find>
+      <find>moveT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;17ca3478-3b0f-49ef-bd87-db99f68d9a61&gt;/Config.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/App/HttpController/Index.php" />
+        <option value="$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Controller.php" />
+        <option value="$PROJECT_DIR$/App/HttpController/Category.php" />
+        <option value="$PROJECT_DIR$/App/lib/Redis/Redis.php" />
+        <option value="$PROJECT_DIR$/App/HttpController/Api/Base.php" />
+        <option value="$PROJECT_DIR$/EasySwooleEvent.php" />
+        <option value="$PROJECT_DIR$/Config/redis.php" />
+        <option value="$PROJECT_DIR$/Config.php" />
+        <option value="$PROJECT_DIR$/ini/redis.ini" />
+        <option value="$PROJECT_DIR$/App/HttpController/Api/Index.php" />
+        <option value="$PROJECT_DIR$/App/Lib/Redis/Redis.php" />
+        <option value="$PROJECT_DIR$/App/HttpController/Api/Upload.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="603" />
+    <option name="y" value="3" />
+    <option name="width" value="1346" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webroot" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ini" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HttpController" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyswoole" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HttpController" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\easyswoole\App\HttpController\Api" />
+      <recent name="D:\phpstudy_pro\WWW\easyswoole" />
+      <recent name="D:\phpstudy_pro\WWW\easyswoole\App\HttpController" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="453903dc-42d8-4344-8f95-ad26549eba2c" name="Default" comment="" />
+      <created>1574495663474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574495663474</updated>
+      <workItem from="1574495664634" duration="8242000" />
+      <workItem from="1574560665837" duration="12028000" />
+      <workItem from="1574597091309" duration="8117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29558000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="603" y="3" width="1346" height="1005" extended-state="0" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1620155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18372093" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26410565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47314286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26410565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893157" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12643678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14337568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.539559" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#140#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasySwooleEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#108#162#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ini/redis.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Lib/Redis/Redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#33#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#140#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Di.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="43" column="74" lean-forward="false" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="74" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasySwooleEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#108#162#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/bin/easyswoole">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Component/Di.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ini/redis.ini.php" />
+    <entry file="file://$PROJECT_DIR$/ini/redis.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasySwooleEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#108#162#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/easyswoole/vue-html-第六章/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/static/js/vendor.fc176fa160da7ee29efc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/video/json/0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Lib/Redis/Redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#33#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#140#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/AbstractInterface/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="102" column="53" lean-forward="false" selection-start-line="102" selection-start-column="53" selection-end-line="102" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/easyswoole/easyswoole/src/Core/Http/Message/ServerRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/HttpController/Api/Upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="26" column="60" lean-forward="false" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <folding>
+            <element signature="e#140#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
