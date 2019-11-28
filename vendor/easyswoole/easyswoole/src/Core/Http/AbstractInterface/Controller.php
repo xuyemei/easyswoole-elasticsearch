@@ -100,7 +100,7 @@ abstract class Controller
         return $this->response;
     }
 
-    protected function writeJson($statusCode = 200,$msg = null,$result = null){
+    protected function writeJson($statusCode = 200,$result = null,$msg = null){
         if(!$this->response()->isEndResponse()){
             $data = Array(
                 "code"=>$statusCode,

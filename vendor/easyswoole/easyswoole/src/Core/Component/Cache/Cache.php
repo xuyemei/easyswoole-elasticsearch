@@ -68,7 +68,8 @@ class Cache
         $msg->setArg('key',$key);
         $msg->setCommand('get');
         $msg->setToken($token);
-        $process->getProcess()->write(\swoole_serialize::pack($msg));
+//        $process->getProcess()->write(\swoole_serialize::pack($msg));
+        $process->getProcess()->write(serialize($msg));
         return $this->read($token,$timeOut);
     }
 
@@ -83,7 +84,8 @@ class Cache
             $msg->setCommand('set');
             $msg->setArg('key',$key);
             $msg->setData($data);
-            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(\swoole_serialize::pack($msg));
+//            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(\swoole_serialize::pack($msg));
+            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(serialize($msg));
         }
     }
 
@@ -97,7 +99,8 @@ class Cache
             $msg = new Msg();
             $msg->setCommand('del');
             $msg->setArg('key',$key);
-            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(\swoole_serialize::pack($msg));
+//            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(\swoole_serialize::pack($msg));
+            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(serialize($msg));
         }
     }
 
@@ -110,7 +113,8 @@ class Cache
             $msg = new Msg();
             $msg->setCommand('flush');
             for ($i=0;$i<$this->processNum;$i++){
-                ProcessManager::getInstance()->getProcessByName($this->generateProcessName($i))->getProcess()->write(\swoole_serialize::pack($msg));
+//                ProcessManager::getInstance()->getProcessByName($this->generateProcessName($i))->getProcess()->write(\swoole_serialize::pack($msg));
+                ProcessManager::getInstance()->getProcessByName($this->generateProcessName($i))->getProcess()->write(serialize($msg));
             }
         }
     }
@@ -135,7 +139,8 @@ class Cache
                 $msg->setArg('timeOut',$timeOut);
                 $msg->setArg('key',$key);
                 $msg->setCommand('deQueue');
-                $process->getProcess()->write(\swoole_serialize::pack($msg));
+//                $process->getProcess()->write(\swoole_serialize::pack($msg));
+                $process->getProcess()->write(serialize($msg));
             }
             return $ret;
         }
@@ -147,7 +152,8 @@ class Cache
         $msg->setArg('key',$key);
         $msg->setCommand('deQueue');
         $msg->setToken($token);
-        $process->getProcess()->write(\swoole_serialize::pack($msg));
+//        $process->getProcess()->write(\swoole_serialize::pack($msg));
+        $process->getProcess()->write(serialize($msg));
         return $this->read($token,$timeOut);
     }
 
@@ -167,7 +173,8 @@ class Cache
             $msg->setCommand('enQueue');
             $msg->setArg('key',$key);
             $msg->setData($data);
-            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(\swoole_serialize::pack($msg));
+//            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(\swoole_serialize::pack($msg));
+            ProcessManager::getInstance()->getProcessByName($this->generateProcessName($num))->getProcess()->write(serialize($msg));
         }
     }
 
@@ -188,7 +195,8 @@ class Cache
             $msg->setArg('key',$key);
             $msg->setCommand('queueSize');
             $msg->setToken($token);
-            $process->getProcess()->write(\swoole_serialize::pack($msg));
+//            $process->getProcess()->write(\swoole_serialize::pack($msg));
+            $process->getProcess()->write(serialize($msg));
             return intval($this->read($token,$timeOut));
         }
     }
@@ -215,7 +223,8 @@ class Cache
             usleep(1);
             if($table->exist($token)){
                 $data = $table->get($token)['data'];
-                $data = \swoole_serialize::unpack($data);
+//                $data = \swoole_serialize::unpack($data);
+                $data = unserialize($data);
                 if(!$data instanceof Msg){
                     $data = null;
                 }

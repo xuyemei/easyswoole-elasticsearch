@@ -17,9 +17,7 @@ class Category extends Base
     public function index()
     {
        $conf = \Yaconf::get('category.cats');
-       print_r(123);
-       print_r($conf);
-//        return $this->writeJson(200,'ok',$data);
+        return $this->writeJson(200,'ok',$conf);
 //        $this->response()->write('hello world 4123');
     }
 }

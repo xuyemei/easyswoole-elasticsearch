@@ -37,12 +37,21 @@ class Redis{
         return '';
     }
 
-    public function set($key,$value){
+    public function set($key,$value,$time=0){
 
-        if(!empty($key)){
-            return $this->redis->set($key,$value);
+        if(empty($key)){
+            return '';
         }
-        return false;
+
+        if(is_array($value)){
+            $value = json_encode($value);
+        }
+       if(!empty($time)){
+           return $this->redis->setex($key,$time,$value);
+       }
+        return $this->redis->set($key,$value);
+
+
     }
 
     public function hset(){
@@ -50,5 +59,33 @@ class Redis{
     }
     public function hget(){
 
+    }
+
+
+    /**
+     * @param $key
+     * @param $number
+     * @param $member
+     * @return bool|float
+     */
+    public function zincrby($key,$number,$member){
+        if(empty($key) || empty($member)){
+            return false;
+        }
+
+        return $this->redis->zIncrBy($key,$number,$member);
+    }
+
+    /**
+     * @param $key
+     * @param $member
+     * @return bool|float
+     */
+    public function zscore($key,$member){
+        if(empty($key) || empty($member)){
+            return false;
+        }
+
+        return $this->redis->zScore($key,$member);
     }
 }

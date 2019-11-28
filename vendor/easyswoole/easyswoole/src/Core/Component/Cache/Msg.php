@@ -62,9 +62,11 @@ class Msg extends SplBean
         }
         $this->setArg('__isUnPack',true);
         if($this->getArg('__isCache')){
-            $this->data = \swoole_serialize::unpack(Utility::readFile($this->data));
+//            $this->data = \swoole_serialize::unpack(Utility::readFile($this->data));
+            $this->data = unserialize(Utility::readFile($this->data));
         }else{
-            $this->data = \swoole_serialize::unpack($this->data);
+//            $this->data = \swoole_serialize::unpack($this->data);
+            $this->data = unserialize($this->data);
         }
         return $this->data;
     }
@@ -76,7 +78,8 @@ class Msg extends SplBean
     {
         $this->setArg('__isUnPack',false);
         $this->setArg('__isCache',false);
-        $data = \swoole_serialize::pack($data);
+//        $data = \swoole_serialize::pack($data);
+        $data = serialize($data);
         $len = strlen($data);
         if($len > 8*1024){
             $this->data = Utility::writeFile($data);

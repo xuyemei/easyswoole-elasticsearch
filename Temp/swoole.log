@@ -17,3 +17,1217 @@
 [2019-11-23 16:15:40 $29632.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
 [2019-11-23 16:15:40 $29632.0]	WARNING	swManager_check_exit_status: worker#16[pid=29650] abnormal exit, status=0, signal=1
 [2019-11-23 16:15:40 #29631.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:46:05 #29631.1]	INFO	Server is shutdown now
+[2019-11-23 21:48:02 $27643.0]	WARNING	swManager_check_exit_status: worker#2[pid=27655] abnormal exit, status=255, signal=0
+[2019-11-23 21:48:16 $27643.0]	WARNING	swManager_check_exit_status: worker#2[pid=27688] abnormal exit, status=255, signal=0
+[2019-11-23 21:58:16 *27721.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27660.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27659.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27658.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27657.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27656.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27654.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 *27653.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27652.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27651.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27650.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27649.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27648.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27647.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27646.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 ^27645.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 $27643.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 21:58:16 $27643.0]	WARNING	swManager_check_exit_status: worker#16[pid=27661] abnormal exit, status=0, signal=1
+[2019-11-23 21:58:16 #27642.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-23 22:14:28 #27642.1]	INFO	Server is shutdown now
+[2019-11-23 22:54:37 #32646.1]	INFO	Server is shutdown now
+[2019-11-24 10:28:39 #7933.1]	INFO	Server is shutdown now
+[2019-11-24 10:29:40 #12990.1]	INFO	Server is shutdown now
+[2019-11-24 10:50:55 #13195.1]	INFO	Server is shutdown now
+[2019-11-24 11:11:51 #17052.1]	INFO	Server is shutdown now
+[2019-11-24 11:12:51 #20929.1]	INFO	Server is shutdown now
+[2019-11-24 11:13:14 #21127.1]	INFO	Server is shutdown now
+[2019-11-24 11:14:43 #21222.1]	INFO	Server is shutdown now
+[2019-11-24 11:16:49 #21504.1]	INFO	Server is shutdown now
+[2019-11-24 11:17:26 #21899.1]	INFO	Server is shutdown now
+[2019-11-24 11:17:36 #22035.1]	INFO	Server is shutdown now
+[2019-11-24 11:17:54 #22082.1]	INFO	Server is shutdown now
+[2019-11-24 11:18:45 #22158.1]	INFO	Server is shutdown now
+string(3) "145"
+string(3) "145"
+string(3) "145"
+[2019-11-24 11:19:44 #22321.1]	INFO	Server is shutdown now
+string(3) "145"
+[2019-11-24 11:20:04 #22531.1]	INFO	Server is shutdown now
+string(7) "xuyemei"
+string(3) "145"
+string(7) "xuyemei"
+string(3) "145"
+string(7) "xuyemei"
+string(3) "145"
+string(7) "xuyemei"
+string(3) "145"
+[2019-11-24 11:21:30 #22621.1]	INFO	Server is shutdown now
+12345string(3) "145"
+[2019-11-24 11:22:49 #22898.1]	INFO	Server is shutdown now
+string(3) "145"
+[2019-11-24 11:23:35 #23140.1]	INFO	Server is shutdown now
+123string(3) "145"
+123string(3) "145"
+123string(3) "145"
+[2019-11-24 11:25:10 #23305.1]	INFO	Server is shutdown now
+[2019-11-24 11:32:56 #23611.1]	INFO	Server is shutdown now
+[2019-11-24 11:43:54 #25601.1]	INFO	Server is shutdown now
+[2019-11-24 12:00:48 #27072.1]	INFO	Server is shutdown now
+[2019-11-24 12:04:55 #30181.1]	INFO	Server is shutdown now
+[2019-11-24 12:17:23 *31424.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31423.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31422.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31421.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31420.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31419.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31418.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 *31417.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31416.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31415.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31414.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31413.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31412.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31411.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31410.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 ^31409.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 $31407.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 12:17:23 $31407.0]	WARNING	swManager_check_exit_status: worker#16[pid=31425] abnormal exit, status=0, signal=1
+[2019-11-24 12:17:23 #31406.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 14:46:30 #31406.1]	INFO	Server is shutdown now
+[2019-11-24 14:56:48 #31737.1]	INFO	Server is shutdown now
+[2019-11-24 21:58:02 #31883.1]	INFO	Server is shutdown now
+[2019-11-24 22:43:47 #10391.1]	INFO	Server is shutdown now
+Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Http/Message/UploadFile.php] line[44] message:[file_put_contents(/webroot/2.mp4): failed to open stream: No such file or directory]
+[2019-11-24 22:46:05 #18613.1]	INFO	Server is shutdown now
+[2019-11-24 22:59:23 *19689.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19688.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19687.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19686.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19685.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19684.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19683.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 *19682.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19681.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19680.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19679.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19678.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19677.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19676.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19675.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 ^19674.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 $19672.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-24 22:59:23 $19672.0]	WARNING	swManager_check_exit_status: worker#16[pid=19690] abnormal exit, status=0, signal=1
+[2019-11-24 22:59:23 #19671.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:48:02 #19671.1]	INFO	Server is shutdown now
+[2019-11-25 10:54:47 *20296.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20295.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20294.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20293.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20292.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20291.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20290.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 *20289.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20288.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20287.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20286.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20285.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20284.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20283.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20282.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 ^20281.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 $20279.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 10:54:47 $20279.0]	WARNING	swManager_check_exit_status: worker#16[pid=20297] abnormal exit, status=0, signal=1
+[2019-11-25 10:54:47 #20278.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:00:34 #20278.1]	INFO	Server is shutdown now
+object(App\Lib\Upload\Video)#53 (0) {
+}
+[2019-11-25 11:01:36 #22631.1]	INFO	Server is shutdown now
+object(App\Lib\Upload\Video)#53 (0) {
+}
+[2019-11-25 11:03:24 #22840.1]	INFO	Server is shutdown now
+object(EasySwoole\Core\Http\Request)#45 (13) {
+  ["request":"EasySwoole\Core\Http\Request":private]=>
+  object(Swoole\Http\Request)#43 (10) {
+    ["fd"]=>
+    int(1)
+    ["streamId"]=>
+    int(0)
+    ["header"]=>
+    array(8) {
+      ["host"]=>
+      string(14) "127.0.0.1:9501"
+      ["connection"]=>
+      string(5) "close"
+      ["content-length"]=>
+      string(6) "568353"
+      ["user-agent"]=>
+      string(21) "PostmanRuntime/7.20.1"
+      ["accept"]=>
+      string(3) "*/*"
+      ["cache-control"]=>
+      string(8) "no-cache"
+      ["postman-token"]=>
+      string(36) "69152a1a-4769-47ef-a39b-dfbeb9b70a70"
+      ["content-type"]=>
+      string(80) "multipart/form-data; boundary=--------------------------380773667476064806287832"
+    }
+    ["server"]=>
+    array(10) {
+      ["request_method"]=>
+      string(4) "POST"
+      ["request_uri"]=>
+      string(16) "/api/upload/file"
+      ["path_info"]=>
+      string(16) "/api/upload/file"
+      ["request_time"]=>
+      int(1574651007)
+      ["request_time_float"]=>
+      float(1574651007.7546)
+      ["server_port"]=>
+      int(9501)
+      ["remote_port"]=>
+      int(45286)
+      ["remote_addr"]=>
+      string(9) "127.0.0.1"
+      ["master_time"]=>
+      int(1574651007)
+      ["server_protocol"]=>
+      string(8) "HTTP/1.0"
+    }
+    ["request"]=>
+    NULL
+    ["cookie"]=>
+    NULL
+    ["get"]=>
+    NULL
+    ["files"]=>
+    array(1) {
+      ["file"]=>
+      array(5) {
+        ["name"]=>
+        string(5) "1.mp4"
+        ["type"]=>
+        string(9) "video/mp4"
+        ["tmp_name"]=>
+        string(25) "/tmp/swoole.upfile.HWpDY5"
+        ["error"]=>
+        int(0)
+        ["size"]=>
+        int(568151)
+      }
+    }
+    ["post"]=>
+    NULL
+    ["tmpfiles"]=>
+    array(1) {
+      [0]=>
+      string(25) "/tmp/swoole.upfile.HWpDY5"
+    }
+  }
+  ["attributes":"EasySwoole\Core\Http\Message\ServerRequest":private]=>
+  array(0) {
+  }
+  ["cookieParams":"EasySwoole\Core\Http\Message\ServerRequest":private]=>
+  array(0) {
+  }
+  ["parsedBody":"EasySwoole\Core\Http\Message\ServerRequest":private]=>
+  array(0) {
+  }
+  ["queryParams":"EasySwoole\Core\Http\Message\ServerRequest":private]=>
+  array(0) {
+  }
+  ["serverParams":"EasySwoole\Core\Http\Message\ServerRequest":private]=>
+  array(10) {
+    ["request_method"]=>
+    string(4) "POST"
+    ["request_uri"]=>
+    string(16) "/api/upload/file"
+    ["path_info"]=>
+    string(16) "/api/upload/file"
+    ["request_time"]=>
+    int(1574651007)
+    ["request_time_float"]=>
+    float(1574651007.7546)
+    ["server_port"]=>
+    int(9501)
+    ["remote_port"]=>
+    int(45286)
+    ["remote_addr"]=>
+    string(9) "127.0.0.1"
+    ["master_time"]=>
+    int(1574651007)
+    ["server_protocol"]=>
+    string(8) "HTTP/1.0"
+  }
+  ["uploadedFiles":"EasySwoole\Core\Http\Message\ServerRequest":private]=>
+  array(1) {
+    ["file"]=>
+    object(EasySwoole\Core\Http\Message\UploadFile)#48 (6) {
+      ["tempName":"EasySwoole\Core\Http\Message\UploadFile":private]=>
+      string(25) "/tmp/swoole.upfile.HWpDY5"
+      ["stream":"EasySwoole\Core\Http\Message\UploadFile":private]=>
+      object(EasySwoole\Core\Http\Message\Stream)#49 (6) {
+        ["stream":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+        resource(56) of type (stream)
+        ["seekable":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+        bool(true)
+        ["readable":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+        bool(true)
+        ["writable":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+        bool(true)
+        ["readList":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+        array(16) {
+          ["r"]=>
+          bool(true)
+          ["w+"]=>
+          bool(true)
+          ["r+"]=>
+          bool(true)
+          ["x+"]=>
+          bool(true)
+          ["c+"]=>
+          bool(true)
+          ["rb"]=>
+          bool(true)
+          ["w+b"]=>
+          bool(true)
+          ["r+b"]=>
+          bool(true)
+          ["x+b"]=>
+          bool(true)
+          ["c+b"]=>
+          bool(true)
+          ["rt"]=>
+          bool(true)
+          ["w+t"]=>
+          bool(true)
+          ["r+t"]=>
+          bool(true)
+          ["x+t"]=>
+          bool(true)
+          ["c+t"]=>
+          bool(true)
+          ["a+"]=>
+          bool(true)
+        }
+        ["writeList":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+        array(17) {
+          ["w"]=>
+          bool(true)
+          ["w+"]=>
+          bool(true)
+          ["rw"]=>
+          bool(true)
+          ["r+"]=>
+          bool(true)
+          ["x+"]=>
+          bool(true)
+          ["c+"]=>
+          bool(true)
+          ["wb"]=>
+          bool(true)
+          ["w+b"]=>
+          bool(true)
+          ["r+b"]=>
+          bool(true)
+          ["x+b"]=>
+          bool(true)
+          ["c+b"]=>
+          bool(true)
+          ["w+t"]=>
+          bool(true)
+          ["r+t"]=>
+          bool(true)
+          ["x+t"]=>
+          bool(true)
+          ["c+t"]=>
+          bool(true)
+          ["a"]=>
+          bool(true)
+          ["a+"]=>
+          bool(true)
+        }
+      }
+      ["size":"EasySwoole\Core\Http\Message\UploadFile":private]=>
+      int(568151)
+      ["error":"EasySwoole\Core\Http\Message\UploadFile":private]=>
+      int(0)
+      ["clientFileName":"EasySwoole\Core\Http\Message\UploadFile":private]=>
+      string(5) "1.mp4"
+      ["clientMediaType":"EasySwoole\Core\Http\Message\UploadFile":private]=>
+      string(9) "video/mp4"
+    }
+  }
+  ["uri":"EasySwoole\Core\Http\Message\Request":private]=>
+  object(EasySwoole\Core\Http\Message\Uri)#47 (7) {
+    ["host":"EasySwoole\Core\Http\Message\Uri":private]=>
+    string(9) "127.0.0.1"
+    ["userInfo":"EasySwoole\Core\Http\Message\Uri":private]=>
+    NULL
+    ["port":"EasySwoole\Core\Http\Message\Uri":private]=>
+    string(4) "9501"
+    ["path":"EasySwoole\Core\Http\Message\Uri":private]=>
+    string(16) "/api/upload/file"
+    ["query":"EasySwoole\Core\Http\Message\Uri":private]=>
+    string(0) ""
+    ["fragment":"EasySwoole\Core\Http\Message\Uri":private]=>
+    NULL
+    ["scheme":"EasySwoole\Core\Http\Message\Uri":private]=>
+    string(4) "http"
+  }
+  ["method":"EasySwoole\Core\Http\Message\Request":private]=>
+  string(4) "POST"
+  ["target":"EasySwoole\Core\Http\Message\Request":private]=>
+  NULL
+  ["protocolVersion":"EasySwoole\Core\Http\Message\Message":private]=>
+  string(3) "1.0"
+  ["headers":"EasySwoole\Core\Http\Message\Message":private]=>
+  array(8) {
+    ["host"]=>
+    array(1) {
+      [0]=>
+      string(14) "127.0.0.1:9501"
+    }
+    ["connection"]=>
+    array(1) {
+      [0]=>
+      string(5) "close"
+    }
+    ["content-length"]=>
+    array(1) {
+      [0]=>
+      string(6) "568353"
+    }
+    ["user-agent"]=>
+    array(1) {
+      [0]=>
+      string(21) "PostmanRuntime/7.20.1"
+    }
+    ["accept"]=>
+    array(1) {
+      [0]=>
+      string(3) "*/*"
+    }
+    ["cache-control"]=>
+    array(1) {
+      [0]=>
+      string(8) "no-cache"
+    }
+    ["postman-token"]=>
+    array(1) {
+      [0]=>
+      string(36) "69152a1a-4769-47ef-a39b-dfbeb9b70a70"
+    }
+    ["content-type"]=>
+    array(1) {
+      [0]=>
+      string(80) "multipart/form-data; boundary=--------------------------380773667476064806287832"
+    }
+  }
+  ["body":"EasySwoole\Core\Http\Message\Message":private]=>
+  object(EasySwoole\Core\Http\Message\Stream)#46 (6) {
+    ["stream":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+    resource(53) of type (stream)
+    ["seekable":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+    bool(true)
+    ["readable":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+    bool(true)
+    ["writable":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+    bool(true)
+    ["readList":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+    array(16) {
+      ["r"]=>
+      bool(true)
+      ["w+"]=>
+      bool(true)
+      ["r+"]=>
+      bool(true)
+      ["x+"]=>
+      bool(true)
+      ["c+"]=>
+      bool(true)
+      ["rb"]=>
+      bool(true)
+      ["w+b"]=>
+      bool(true)
+      ["r+b"]=>
+      bool(true)
+      ["x+b"]=>
+      bool(true)
+      ["c+b"]=>
+      bool(true)
+      ["rt"]=>
+      bool(true)
+      ["w+t"]=>
+      bool(true)
+      ["r+t"]=>
+      bool(true)
+      ["x+t"]=>
+      bool(true)
+      ["c+t"]=>
+      bool(true)
+      ["a+"]=>
+      bool(true)
+    }
+    ["writeList":"EasySwoole\Core\Component\Spl\SplStream":private]=>
+    array(17) {
+      ["w"]=>
+      bool(true)
+      ["w+"]=>
+      bool(true)
+      ["rw"]=>
+      bool(true)
+      ["r+"]=>
+      bool(true)
+      ["x+"]=>
+      bool(true)
+      ["c+"]=>
+      bool(true)
+      ["wb"]=>
+      bool(true)
+      ["w+b"]=>
+      bool(true)
+      ["r+b"]=>
+      bool(true)
+      ["x+b"]=>
+      bool(true)
+      ["c+b"]=>
+      bool(true)
+      ["w+t"]=>
+      bool(true)
+      ["r+t"]=>
+      bool(true)
+      ["x+t"]=>
+      bool(true)
+      ["c+t"]=>
+      bool(true)
+      ["a"]=>
+      bool(true)
+      ["a+"]=>
+      bool(true)
+    }
+  }
+}
+[2019-11-25 11:05:03 #23188.1]	INFO	Server is shutdown now
+EasySwoole\Core\Http\Request Object
+(
+    [request:EasySwoole\Core\Http\Request:private] => Swoole\Http\Request Object
+        (
+            [fd] => 1
+            [streamId] => 0
+            [header] => Array
+                (
+                    [host] => 127.0.0.1:9501
+                    [connection] => close
+                    [content-length] => 568353
+                    [user-agent] => PostmanRuntime/7.20.1
+                    [accept] => */*
+                    [cache-control] => no-cache
+                    [postman-token] => 320ab076-ffed-49db-990f-2bdd94de9883
+                    [content-type] => multipart/form-data; boundary=--------------------------026533521529502492047524
+                )
+
+            [server] => Array
+                (
+                    [request_method] => POST
+                    [request_uri] => /api/upload/file
+                    [path_info] => /api/upload/file
+                    [request_time] => 1574651107
+                    [request_time_float] => 1574651108.0751
+                    [server_port] => 9501
+                    [remote_port] => 45386
+                    [remote_addr] => 127.0.0.1
+                    [master_time] => 1574651107
+                    [server_protocol] => HTTP/1.0
+                )
+
+            [request] => 
+            [cookie] => 
+            [get] => 
+            [files] => Array
+                (
+                    [file] => Array
+                        (
+                            [name] => 1.mp4
+                            [type] => video/mp4
+                            [tmp_name] => /tmp/swoole.upfile.0KGmZo
+                            [error] => 0
+                            [size] => 568151
+                        )
+
+                )
+
+            [post] => 
+            [tmpfiles] => Array
+                (
+                    [0] => /tmp/swoole.upfile.0KGmZo
+                )
+
+        )
+
+    [attributes:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [cookieParams:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [parsedBody:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [queryParams:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [serverParams:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+            [request_method] => POST
+            [request_uri] => /api/upload/file
+            [path_info] => /api/upload/file
+            [request_time] => 1574651107
+            [request_time_float] => 1574651108.0751
+            [server_port] => 9501
+            [remote_port] => 45386
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1574651107
+            [server_protocol] => HTTP/1.0
+        )
+
+    [uploadedFiles:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+            [file] => EasySwoole\Core\Http\Message\UploadFile Object
+                (
+                    [tempName:EasySwoole\Core\Http\Message\UploadFile:private] => /tmp/swoole.upfile.0KGmZo
+                    [stream:EasySwoole\Core\Http\Message\UploadFile:private] => EasySwoole\Core\Http\Message\Stream Object
+                        (
+                            [stream:EasySwoole\Core\Component\Spl\SplStream:private] => Resource id #56
+                            [seekable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+                            [readable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+                            [writable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+                            [readList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                                (
+                                    [r] => 1
+                                    [w+] => 1
+                                    [r+] => 1
+                                    [x+] => 1
+                                    [c+] => 1
+                                    [rb] => 1
+                                    [w+b] => 1
+                                    [r+b] => 1
+                                    [x+b] => 1
+                                    [c+b] => 1
+                                    [rt] => 1
+                                    [w+t] => 1
+                                    [r+t] => 1
+                                    [x+t] => 1
+                                    [c+t] => 1
+                                    [a+] => 1
+                                )
+
+                            [writeList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                                (
+                                    [w] => 1
+                                    [w+] => 1
+                                    [rw] => 1
+                                    [r+] => 1
+                                    [x+] => 1
+                                    [c+] => 1
+                                    [wb] => 1
+                                    [w+b] => 1
+                                    [r+b] => 1
+                                    [x+b] => 1
+                                    [c+b] => 1
+                                    [w+t] => 1
+                                    [r+t] => 1
+                                    [x+t] => 1
+                                    [c+t] => 1
+                                    [a] => 1
+                                    [a+] => 1
+                                )
+
+                        )
+
+                    [size:EasySwoole\Core\Http\Message\UploadFile:private] => 568151
+                    [error:EasySwoole\Core\Http\Message\UploadFile:private] => 0
+                    [clientFileName:EasySwoole\Core\Http\Message\UploadFile:private] => 1.mp4
+                    [clientMediaType:EasySwoole\Core\Http\Message\UploadFile:private] => video/mp4
+                )
+
+        )
+
+    [uri:EasySwoole\Core\Http\Message\Request:private] => EasySwoole\Core\Http\Message\Uri Object
+        (
+            [host:EasySwoole\Core\Http\Message\Uri:private] => 127.0.0.1
+            [userInfo:EasySwoole\Core\Http\Message\Uri:private] => 
+            [port:EasySwoole\Core\Http\Message\Uri:private] => 9501
+            [path:EasySwoole\Core\Http\Message\Uri:private] => /api/upload/file
+            [query:EasySwoole\Core\Http\Message\Uri:private] => 
+            [fragment:EasySwoole\Core\Http\Message\Uri:private] => 
+            [scheme:EasySwoole\Core\Http\Message\Uri:private] => http
+        )
+
+    [method:EasySwoole\Core\Http\Message\Request:private] => POST
+    [target:EasySwoole\Core\Http\Message\Request:private] => 
+    [protocolVersion:EasySwoole\Core\Http\Message\Message:private] => 1.0
+    [headers:EasySwoole\Core\Http\Message\Message:private] => Array
+        (
+            [host] => Array
+                (
+                    [0] => 127.0.0.1:9501
+                )
+
+            [connection] => Array
+                (
+                    [0] => close
+                )
+
+            [content-length] => Array
+                (
+                    [0] => 568353
+                )
+
+            [user-agent] => Array
+                (
+                    [0] => PostmanRuntime/7.20.1
+                )
+
+            [accept] => Array
+                (
+                    [0] => */*
+                )
+
+            [cache-control] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [postman-token] => Array
+                (
+                    [0] => 320ab076-ffed-49db-990f-2bdd94de9883
+                )
+
+            [content-type] => Array
+                (
+                    [0] => multipart/form-data; boundary=--------------------------026533521529502492047524
+                )
+
+        )
+
+    [body:EasySwoole\Core\Http\Message\Message:private] => EasySwoole\Core\Http\Message\Stream Object
+        (
+            [stream:EasySwoole\Core\Component\Spl\SplStream:private] => Resource id #53
+            [seekable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+            [readable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+            [writable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+            [readList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                (
+                    [r] => 1
+                    [w+] => 1
+                    [r+] => 1
+                    [x+] => 1
+                    [c+] => 1
+                    [rb] => 1
+                    [w+b] => 1
+                    [r+b] => 1
+                    [x+b] => 1
+                    [c+b] => 1
+                    [rt] => 1
+                    [w+t] => 1
+                    [r+t] => 1
+                    [x+t] => 1
+                    [c+t] => 1
+                    [a+] => 1
+                )
+
+            [writeList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                (
+                    [w] => 1
+                    [w+] => 1
+                    [rw] => 1
+                    [r+] => 1
+                    [x+] => 1
+                    [c+] => 1
+                    [wb] => 1
+                    [w+b] => 1
+                    [r+b] => 1
+                    [x+b] => 1
+                    [c+b] => 1
+                    [w+t] => 1
+                    [r+t] => 1
+                    [x+t] => 1
+                    [c+t] => 1
+                    [a] => 1
+                    [a+] => 1
+                )
+
+        )
+
+)
+[2019-11-25 11:05:17 #23514.1]	INFO	Server is shutdown now
+EasySwoole\Core\Http\Request Object
+(
+    [request:EasySwoole\Core\Http\Request:private] => Swoole\Http\Request Object
+        (
+            [fd] => 1
+            [streamId] => 0
+            [header] => Array
+                (
+                    [host] => 127.0.0.1:9501
+                    [connection] => close
+                    [content-length] => 568353
+                    [user-agent] => PostmanRuntime/7.20.1
+                    [accept] => */*
+                    [cache-control] => no-cache
+                    [postman-token] => f5cb289c-0958-4187-b06b-62e291c43847
+                    [content-type] => multipart/form-data; boundary=--------------------------660418762517638426904990
+                )
+
+            [server] => Array
+                (
+                    [request_method] => POST
+                    [request_uri] => /api/upload/file
+                    [path_info] => /api/upload/file
+                    [request_time] => 1574651134
+                    [request_time_float] => 1574651135.5825
+                    [server_port] => 9501
+                    [remote_port] => 45418
+                    [remote_addr] => 127.0.0.1
+                    [master_time] => 1574651134
+                    [server_protocol] => HTTP/1.0
+                )
+
+            [request] => 
+            [cookie] => 
+            [get] => 
+            [files] => Array
+                (
+                    [file] => Array
+                        (
+                            [name] => 1.mp4
+                            [type] => video/mp4
+                            [tmp_name] => /tmp/swoole.upfile.TyRCW3
+                            [error] => 0
+                            [size] => 568151
+                        )
+
+                )
+
+            [post] => 
+            [tmpfiles] => Array
+                (
+                    [0] => /tmp/swoole.upfile.TyRCW3
+                )
+
+        )
+
+    [attributes:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [cookieParams:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [parsedBody:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [queryParams:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+        )
+
+    [serverParams:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+            [request_method] => POST
+            [request_uri] => /api/upload/file
+            [path_info] => /api/upload/file
+            [request_time] => 1574651134
+            [request_time_float] => 1574651135.5825
+            [server_port] => 9501
+            [remote_port] => 45418
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1574651134
+            [server_protocol] => HTTP/1.0
+        )
+
+    [uploadedFiles:EasySwoole\Core\Http\Message\ServerRequest:private] => Array
+        (
+            [file] => EasySwoole\Core\Http\Message\UploadFile Object
+                (
+                    [tempName:EasySwoole\Core\Http\Message\UploadFile:private] => /tmp/swoole.upfile.TyRCW3
+                    [stream:EasySwoole\Core\Http\Message\UploadFile:private] => EasySwoole\Core\Http\Message\Stream Object
+                        (
+                            [stream:EasySwoole\Core\Component\Spl\SplStream:private] => Resource id #54
+                            [seekable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+                            [readable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+                            [writable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+                            [readList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                                (
+                                    [r] => 1
+                                    [w+] => 1
+                                    [r+] => 1
+                                    [x+] => 1
+                                    [c+] => 1
+                                    [rb] => 1
+                                    [w+b] => 1
+                                    [r+b] => 1
+                                    [x+b] => 1
+                                    [c+b] => 1
+                                    [rt] => 1
+                                    [w+t] => 1
+                                    [r+t] => 1
+                                    [x+t] => 1
+                                    [c+t] => 1
+                                    [a+] => 1
+                                )
+
+                            [writeList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                                (
+                                    [w] => 1
+                                    [w+] => 1
+                                    [rw] => 1
+                                    [r+] => 1
+                                    [x+] => 1
+                                    [c+] => 1
+                                    [wb] => 1
+                                    [w+b] => 1
+                                    [r+b] => 1
+                                    [x+b] => 1
+                                    [c+b] => 1
+                                    [w+t] => 1
+                                    [r+t] => 1
+                                    [x+t] => 1
+                                    [c+t] => 1
+                                    [a] => 1
+                                    [a+] => 1
+                                )
+
+                        )
+
+                    [size:EasySwoole\Core\Http\Message\UploadFile:private] => 568151
+                    [error:EasySwoole\Core\Http\Message\UploadFile:private] => 0
+                    [clientFileName:EasySwoole\Core\Http\Message\UploadFile:private] => 1.mp4
+                    [clientMediaType:EasySwoole\Core\Http\Message\UploadFile:private] => video/mp4
+                )
+
+        )
+
+    [uri:EasySwoole\Core\Http\Message\Request:private] => EasySwoole\Core\Http\Message\Uri Object
+        (
+            [host:EasySwoole\Core\Http\Message\Uri:private] => 127.0.0.1
+            [userInfo:EasySwoole\Core\Http\Message\Uri:private] => 
+            [port:EasySwoole\Core\Http\Message\Uri:private] => 9501
+            [path:EasySwoole\Core\Http\Message\Uri:private] => /api/upload/file
+            [query:EasySwoole\Core\Http\Message\Uri:private] => 
+            [fragment:EasySwoole\Core\Http\Message\Uri:private] => 
+            [scheme:EasySwoole\Core\Http\Message\Uri:private] => http
+        )
+
+    [method:EasySwoole\Core\Http\Message\Request:private] => POST
+    [target:EasySwoole\Core\Http\Message\Request:private] => 
+    [protocolVersion:EasySwoole\Core\Http\Message\Message:private] => 1.0
+    [headers:EasySwoole\Core\Http\Message\Message:private] => Array
+        (
+            [host] => Array
+                (
+                    [0] => 127.0.0.1:9501
+                )
+
+            [connection] => Array
+                (
+                    [0] => close
+                )
+
+            [content-length] => Array
+                (
+                    [0] => 568353
+                )
+
+            [user-agent] => Array
+                (
+                    [0] => PostmanRuntime/7.20.1
+                )
+
+            [accept] => Array
+                (
+                    [0] => */*
+                )
+
+            [cache-control] => Array
+                (
+                    [0] => no-cache
+                )
+
+            [postman-token] => Array
+                (
+                    [0] => f5cb289c-0958-4187-b06b-62e291c43847
+                )
+
+            [content-type] => Array
+                (
+                    [0] => multipart/form-data; boundary=--------------------------660418762517638426904990
+                )
+
+        )
+
+    [body:EasySwoole\Core\Http\Message\Message:private] => EasySwoole\Core\Http\Message\Stream Object
+        (
+            [stream:EasySwoole\Core\Component\Spl\SplStream:private] => Resource id #51
+            [seekable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+            [readable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+            [writable:EasySwoole\Core\Component\Spl\SplStream:private] => 1
+            [readList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                (
+                    [r] => 1
+                    [w+] => 1
+                    [r+] => 1
+                    [x+] => 1
+                    [c+] => 1
+                    [rb] => 1
+                    [w+b] => 1
+                    [r+b] => 1
+                    [x+b] => 1
+                    [c+b] => 1
+                    [rt] => 1
+                    [w+t] => 1
+                    [r+t] => 1
+                    [x+t] => 1
+                    [c+t] => 1
+                    [a+] => 1
+                )
+
+            [writeList:EasySwoole\Core\Component\Spl\SplStream:private] => Array
+                (
+                    [w] => 1
+                    [w+] => 1
+                    [rw] => 1
+                    [r+] => 1
+                    [x+] => 1
+                    [c+] => 1
+                    [wb] => 1
+                    [w+b] => 1
+                    [r+b] => 1
+                    [x+b] => 1
+                    [c+b] => 1
+                    [w+t] => 1
+                    [r+t] => 1
+                    [x+t] => 1
+                    [c+t] => 1
+                    [a] => 1
+                    [a+] => 1
+                )
+
+        )
+
+)
+[2019-11-25 11:05:47 #23582.1]	INFO	Server is shutdown now
+[2019-11-25 11:22:35 *24931.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24930.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24929.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24928.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24927.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24926.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24925.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 *24924.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24923.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24922.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24921.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24920.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24919.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24918.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24917.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 ^24916.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 $24913.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:22:35 $24913.0]	WARNING	swManager_check_exit_status: worker#16[pid=24932] abnormal exit, status=0, signal=1
+[2019-11-25 11:22:35 #24912.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:25:41 #24912.1]	INFO	Server is shutdown now
+[2019-11-25 11:37:38 *27842.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27841.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27840.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27839.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27838.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27837.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27836.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 *27835.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27834.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27833.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27832.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27831.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27830.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27829.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27828.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 ^27827.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 $27825.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 11:37:38 $27825.0]	WARNING	swManager_check_exit_status: worker#16[pid=27843] abnormal exit, status=0, signal=1
+[2019-11-25 11:37:38 #27824.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 13:37:19 #27824.1]	INFO	Server is shutdown now
+[2019-11-25 14:14:14 *24195.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24194.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24193.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24192.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24191.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24190.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24189.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 *24188.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24187.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24186.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24185.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24184.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24183.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24182.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24181.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 ^24180.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 $24178.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:14:14 $24178.0]	WARNING	swManager_check_exit_status: worker#16[pid=24196] abnormal exit, status=0, signal=1
+[2019-11-25 14:14:14 #24177.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:19:08 #24177.1]	INFO	Server is shutdown now
+[2019-11-25 14:50:58 *31198.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31197.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31196.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31195.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31194.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31193.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31192.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 *31191.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31190.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31189.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31188.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31187.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31186.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31185.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31184.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 ^31183.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 $31181.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 14:50:58 $31181.0]	WARNING	swManager_check_exit_status: worker#16[pid=31199] abnormal exit, status=0, signal=1
+[2019-11-25 14:50:58 #31180.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:12:25 #31180.1]	INFO	Server is shutdown now
+[2019-11-25 15:37:53 *7681.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7680.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7679.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7678.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7677.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7676.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7675.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 *7674.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7673.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7672.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7671.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7670.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7669.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7668.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7667.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 ^7666.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 $7664.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:37:53 $7664.0]	WARNING	swManager_check_exit_status: worker#16[pid=7682] abnormal exit, status=0, signal=1
+[2019-11-25 15:37:53 #7663.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:39:00 $7664.0]	WARNING	swManager_check_exit_status: worker#3[pid=7677] abnormal exit, status=255, signal=0
+[2019-11-25 15:39:17 #7663.1]	INFO	Server is shutdown now
+[2019-11-25 15:49:26 *9847.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9846.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9845.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9844.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9843.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9842.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9841.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 *9840.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9839.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9838.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9837.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9836.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9835.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9834.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9833.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 ^9832.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 $9829.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:49:26 $9829.0]	WARNING	swManager_check_exit_status: worker#16[pid=9848] abnormal exit, status=0, signal=1
+[2019-11-25 15:49:26 #9828.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 15:59:44 #9828.1]	INFO	Server is shutdown now
+[2019-11-25 16:15:32 *14768.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14767.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14766.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14765.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14764.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14763.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14762.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 *14761.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14760.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14759.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14758.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14757.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14756.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14755.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14754.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 ^14753.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 $14751.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 16:15:32 $14751.0]	WARNING	swManager_check_exit_status: worker#16[pid=14769] abnormal exit, status=0, signal=1
+[2019-11-25 16:15:32 #14750.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 20:44:38 #14750.1]	INFO	Server is shutdown now
+[2019-11-25 20:51:15 $2634.0]	WARNING	swManager_check_exit_status: worker#3[pid=2647] abnormal exit, status=255, signal=0
+[2019-11-25 21:02:42 *2820.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2819.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2818.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2817.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2816.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2815.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2814.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 *2813.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2812.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2811.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2810.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2809.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2808.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2807.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2806.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 ^2805.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 $2803.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:02:42 $2803.0]	WARNING	swManager_check_exit_status: worker#16[pid=2821] abnormal exit, status=0, signal=1
+[2019-11-25 21:02:42 #2802.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 21:53:15 #2802.1]	INFO	Server is shutdown now
+[2019-11-25 22:23:49 *18134.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18133.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18132.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18131.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18130.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18129.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18128.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 *18127.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18126.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18125.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18124.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18123.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18122.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18121.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18120.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 ^18119.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 $18117.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:23:49 $18117.0]	WARNING	swManager_check_exit_status: worker#16[pid=18135] abnormal exit, status=0, signal=1
+[2019-11-25 22:23:49 #18116.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-25 22:29:57 #18116.1]	INFO	Server is shutdown now
+[2019-11-26 09:50:23 *13210.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13209.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13208.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13207.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13206.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13205.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13204.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 *13203.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13202.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13201.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13200.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13199.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13198.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13197.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13196.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 ^13195.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 $13193.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 09:50:23 $13193.0]	WARNING	swManager_check_exit_status: worker#16[pid=13211] abnormal exit, status=0, signal=1
+[2019-11-26 09:50:23 #13192.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-26 13:35:15 #13192.1]	INFO	Server is shutdown now

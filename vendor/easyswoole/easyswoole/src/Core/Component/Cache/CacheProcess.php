@@ -56,7 +56,8 @@ class CacheProcess extends AbstractProcess
     {
         // TODO: Implement onReceive() method.
 
-        $msg = \swoole_serialize::unpack($str);
+//        $msg = \swoole_serialize::unpack($str);
+        $msg = unserialize($str);
         $table = TableManager::getInstance()->get(Cache::EXCHANGE_TABLE_NAME);
         if(count($table) > 1900){
             //接近阈值的时候进行gc检测
@@ -79,7 +80,8 @@ class CacheProcess extends AbstractProcess
                     $ret = $this->cacheData->get($msg->getArg('key'));
                     $msg->setData($ret);
                     $table->set($msg->getToken(),[
-                        'data'=>\swoole_serialize::pack($msg),
+//                        'data'=>\swoole_serialize::pack($msg),
+                        'data'=>serialize($msg),
                         'microTime'=>microtime(true)
                     ]);
                     break;
@@ -116,7 +118,8 @@ class CacheProcess extends AbstractProcess
                     //deQueue 有cli 服务未启动的请求，但无token
                     if(!empty($msg->getToken())){
                         $table->set($msg->getToken(),[
-                            'data'=>\swoole_serialize::pack($msg),
+//                            'data'=>\swoole_serialize::pack($msg),
+                            'data'=>serialize($msg),
                             'microTime'=>microtime(true)
                         ]);
                     }
@@ -129,7 +132,8 @@ class CacheProcess extends AbstractProcess
                     }
                     $msg->setData($que->count());
                     $table->set($msg->getToken(),[
-                        'data'=>\swoole_serialize::pack($msg),
+//                        'data'=>\swoole_serialize::pack($msg),
+                        'data'=>serialize($msg),
                         'microTime'=>microtime(true)
                     ]);
                     break;
@@ -142,7 +146,8 @@ class CacheProcess extends AbstractProcess
     {
         $processName = $this->getProcessName();
         $file = Config::getInstance()->getConf('TEMP_DIR')."/{$processName}.data";
-        file_put_contents($file,\swoole_serialize::pack($this->cacheData->getArrayCopy()),LOCK_EX);
+//        file_put_contents($file,\swoole_serialize::pack($this->cacheData->getArrayCopy()),LOCK_EX);
+        file_put_contents($file,serialize($this->cacheData->getArrayCopy()),LOCK_EX);
     }
 
     private function loadData()
@@ -150,7 +155,8 @@ class CacheProcess extends AbstractProcess
         $processName = $this->getProcessName();
         $file = Config::getInstance()->getConf('TEMP_DIR')."/{$processName}.data";
         if(file_exists($file)){
-            $data = \swoole_serialize::unpack(file_get_contents($file));
+//            $data = \swoole_serialize::unpack(file_get_contents($file));
+            $data = unserialize(file_get_contents($file));
             if(!is_array($data)){
                 $data = [];
             }

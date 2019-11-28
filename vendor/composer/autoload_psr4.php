@@ -10,6 +10,7 @@ return array(
     'Symfony\\Polyfill\\Php56\\' => array($vendorDir . '/symfony/polyfill-php56'),
     'SuperClosure\\' => array($vendorDir . '/jeremeamia/superclosure/src'),
     'PhpParser\\' => array($vendorDir . '/nikic/php-parser/lib/PhpParser'),
+    'MysqliDb\\' => array($baseDir . '/App/Vendor/Db/MysqliDb.php'),
     'FastRoute\\' => array($vendorDir . '/nikic/fast-route/src'),
     'EasySwoole\\' => array($vendorDir . '/easyswoole/easyswoole/src'),
     'Cron\\' => array($vendorDir . '/dragonmantank/cron-expression/src/Cron'),

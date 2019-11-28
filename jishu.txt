@@ -1,0 +1,9 @@
+1、SELECT SQL_CALC_FOUND_ROWS * FROM video LIMIT 0, 10:
+    SQL_CALC_FOUND_ROWS  = count(*)
+
+2、静态化API:
+    easySwoole + crontab
+3、内存table
+
+4、redis
+openresty

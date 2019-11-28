@@ -8,16 +8,16 @@
 
 namespace App\Lib\Upload;
 
-class Video extends Base{
+class Image extends Base{
 
-    public $fileType = 'video';
-    public $maxSize = 5000000;
+    public $fileType = 'image';
+    public $maxSize = 2000000;
 
     /**
-     * 视频合法类型
+     * 图片合法类型
      * @var array
      */
-    public $fileExtType = ['mp4','x-flv'];
+    public $fileExtType = ['jpg','png','jpeg'];
 
 }
 

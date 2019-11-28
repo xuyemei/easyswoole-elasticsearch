@@ -19,6 +19,8 @@ use EasySwoole\Core\Http\AbstractInterface\Controller;
 class Base extends Controller
 {
 
+
+    public $params;
     function index()
     {
 
@@ -29,11 +31,59 @@ class Base extends Controller
      * @param $action
      * @return bool|null
      */
-//    public function onRequest($action):?bool
-//    {
-//        return true;
-//    }
+    public function onRequest($action):?bool
+    {
 
+        $this->params = $this->request()->getRequestParam();
+        $this->params['page'] = $this->params['page'] ?? 1;
+        $this->params['size'] = $this->params['size'] ?? 2;
+        $this->params['from'] = ($this->params['page'] - 1) * $this->params['size'];
+
+        return true;
+    }
+
+    /**
+     * 重写writeJson方法
+     * @param int $statusCode
+     * @param null $msg
+     * @param null $result
+     * @return bool
+     */
+    protected function writeJson($statusCode = 200,$msg = null,$result = null){
+        if(!$this->response()->isEndResponse()){
+            $data = Array(
+                "code"=>$statusCode,
+                "msg"=>$msg,
+                "result"=>$result,
+            );
+            $this->response()->write(json_encode($data,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES));
+            $this->response()->withHeader('Content-type','application/json;charset=utf-8');
+            $this->response()->withStatus($statusCode);
+            return true;
+        }else{
+            trigger_error("response has end");
+            return false;
+        }
+    }
+
+
+    /**
+     * @param $total
+     * @param $data
+     * @return array
+     */
+    public function getPaginateDatas($total,$data){
+
+        $totalPage = ceil($total/$this->params['size']);
+        $data = $data ?? [];
+        $data = array_splice($data,$this->params['from'],$this->params['size']);
+        return [
+            'total_page'=>$totalPage,
+            'page_size'=>$this->params['size'],
+            'count'=>intval($total),
+            'lists'=>$data,
+        ];
+    }
 
     /**
      * 重新异常处理

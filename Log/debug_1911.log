@@ -1,0 +1,291 @@
+19-11-23 21:43:26:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-23 21:46:06:Error at file[Unknown] line[0] message:[PHP Startup: Unable to load dynamic library 'sockets' (tried: /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets: cannot open shared object file: No such file or directory), /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets.so (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets.so: cannot open shared object file: No such file or directory))]
+19-11-23 21:46:06:Error at file[Unknown] line[0] message:[PHP Startup: Unable to load dynamic library 'sockets' (tried: /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets: cannot open shared object file: No such file or directory), /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets.so (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets.so: cannot open shared object file: No such file or directory))]
+19-11-23 21:46:06:Error at file[Unknown] line[0] message:[PHP Startup: Unable to load dynamic library 'sockets' (tried: /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets: cannot open shared object file: No such file or directory), /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets.so (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/sockets.so: cannot open shared object file: No such file or directory))]
+19-11-24 10:23:52:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-24 11:32:56:Error at file[/data/myEW/EasySwooleEvent.php] line[38] message:[Uncaught Error: Class 'EasySwoole\Redis' not found in /data/myEW/EasySwooleEvent.php:38
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(410): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(39): serverRestart(Array)
+#6 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#7 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#8 {main}
+  thrown]
+19-11-24 11:32:56:Error at file[/data/myEW/EasySwooleEvent.php] line[38] message:[Uncaught Error: Class 'EasySwoole\Redis' not found in /data/myEW/EasySwooleEvent.php:38
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(410): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(39): serverRestart(Array)
+#6 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#7 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#8 {main}
+  thrown]
+19-11-24 12:04:55:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Undefined index: host]
+19-11-24 12:04:55:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Undefined index: port]
+19-11-24 12:04:55:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Undefined index: time_out]
+19-11-24 12:04:55:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-11-24 12:04:55:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[22] message:[Uncaught Exception: redis服务异常 in /data/myEW/App/Lib/Redis/Redis.php:22
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): App\Lib\Redis\Redis->__construct()
+#1 /data/myEW/EasySwooleEvent.php(52): App\Lib\Redis\Redis::getInstance()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(410): serverStart(Array)
+#7 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(39): serverRestart(Array)
+#8 /]
+19-11-24 12:04:55:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[22] message:[Uncaught Exception: redis服务异常 in /data/myEW/App/Lib/Redis/Redis.php:22
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): App\Lib\Redis\Redis->__construct()
+#1 /data/myEW/EasySwooleEvent.php(52): App\Lib\Redis\Redis::getInstance()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(410): serverStart(Array)
+#7 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(39): serverRestart(Array)
+#8 /]
+19-11-24 12:06:36:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[26] message:[Undefined variable: result]
+19-11-24 14:46:17:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-24 14:46:30:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Undefined index: host]
+19-11-24 14:46:30:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Undefined index: port]
+19-11-24 14:46:30:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Undefined index: time_out]
+19-11-24 14:46:30:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[20] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-11-24 14:46:30:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[22] message:[Uncaught Exception: redis服务异常 in /data/myEW/App/Lib/Redis/Redis.php:22
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): App\Lib\Redis\Redis->__construct()
+#1 /data/myEW/EasySwooleEvent.php(52): App\Lib\Redis\Redis::getInstance()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(410): serverStart(Array)
+#7 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(39): serverRestart(Array)
+#8 /]
+19-11-24 14:46:30:Error at file[/data/myEW/App/Lib/Redis/Redis.php] line[22] message:[Uncaught Exception: redis服务异常 in /data/myEW/App/Lib/Redis/Redis.php:22
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): App\Lib\Redis\Redis->__construct()
+#1 /data/myEW/EasySwooleEvent.php(52): App\Lib\Redis\Redis::getInstance()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(410): serverStart(Array)
+#7 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(39): serverRestart(Array)
+#8 /]
+19-11-24 22:45:46:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Http/Message/UploadFile.php] line[44] message:[file_put_contents(/webroot/2.mp4): failed to open stream: No such file or directory]
+19-11-24 22:46:53:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Http/Message/UploadFile.php] line[44] message:[file_put_contents(/webroot/2.mp4): failed to open stream: No such file or directory]
+19-11-24 22:48:47:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Http/Message/UploadFile.php] line[44] message:[file_put_contents(/myEW/webroot/2.mp4): failed to open stream: No such file or directory]
+19-11-25 10:47:49:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 15:12:55:Error at file[/data/myEW/App/HttpController/Api/Upload.php] line[30] message:[Undefined variable: POST /api/upload/file HTTP/1.0
+host: 127.0.0.1:9501
+connection: close
+content-length: 3765
+user-agent: PostmanRuntime/7.20.1
+accept: */*
+cache-control: no-cache
+postman-token: d90c2742-eb67-4a88-893e-5795bf03d912
+content-type: multipart/form-data; boundary=--------------------------836346767417432315585263
+
+----------------------------836346767417432315585263
+Content-Disposition: form-data; name="image"; filename="1.jpeg"
+Content-Type: image/jpeg
+
+����]
+19-11-25 15:39:00:Error at file[/data/myEW/App/HttpController/Api/Upload.php] line[40] message:[Undefined variable: obj]
+19-11-25 15:39:11:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 15:39:26:Error at file[/data/myEW/App/HttpController/Api/Upload.php] line[40] message:[Undefined variable: obj]
+19-11-25 16:03:35:Error at file[/data/myEW/App/Lib/Upload/Base.php] line[51] message:[Undefined property: App\Lib\Upload\Image::$request]
+19-11-25 20:44:32:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 22:00:58:Error at file[/data/myEW/App/HttpController/Api/Video.php] line[52] message:[Undefined index: create_time]
+19-11-25 22:29:51:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 22:46:50:Error at file[/data/myEW/vendor/easyswoole/easyswoole/src/Core/Component/Di.php] line[47] message:[Undefined index: SHUTDOWN_FUNCTION]
+19-11-25 23:06:44:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 23:10:59:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 23:35:40:Error at file[Unknown] line[0] message:[PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/mysqli (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/mysqli: cannot open shared object file: No such file or directory), /usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/mysqli.so (/usr/local/php/lib/php/extensions/no-debug-non-zts-20170718/mysqli.so: cannot open shared object file: No such file or directory))]
+19-11-25 23:37:37:Error at file[/data/myEW/EasySwooleEvent.php] line[60] message:[Uncaught Error: Class 'App\Model\Es\EsClient' not found in /data/myEW/EasySwooleEvent.php:60
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 23:41:02:Error at file[/data/myEW/EasySwooleEvent.php] line[51] message:[Uncaught Error: Class 'MysqliDb' not found in /data/myEW/EasySwooleEvent.php:51
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 23:53:06:Error at file[/data/myEW/EasySwooleEvent.php] line[51] message:[Uncaught Error: Class 'MysqliDb' not found in /data/myEW/EasySwooleEvent.php:51
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-25 23:58:59:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'App\Db\MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-26 09:28:37:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'App\Db\MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-26 09:29:10:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'App\Db\MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-26 13:53:42:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'EasySwoole\Vendor\Db\MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]
+19-11-26 13:55:34:Error at file[/data/myEW/EasySwooleEvent.php] line[43] message:[Uncaught Error: Class 'EasySwoole\Vendor\Db\MysqliDb' not found in /data/myEW/EasySwooleEvent.php:43
+Stack trace:
+#0 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#1 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/myEW/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/myEW/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/myEW/easyswoole(2): require('/data/myEW/vend...')
+#7 {main}
+  thrown]

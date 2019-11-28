@@ -41,24 +41,26 @@ class Di
         $this->container = array();
     }
 
-    function get($key)
-    {
-        if(isset($this->container[$key])){
-            $result = $this->container[$key];
-            if(is_object($result['obj'])){
-                return $result['obj'];
-            }else if(is_callable($result['obj'])){
-                return $this->container[$key]['obj'];
-            }else if(is_string($result['obj']) && class_exists($result['obj'])){
-                $reflection = new \ReflectionClass ( $result['obj'] );
-                $ins =  $reflection->newInstanceArgs ( $result['params'] );
-                $this->container[$key]['obj'] = $ins;
-                return $this->container[$key]['obj'];
+    function get($key)    {
+
+            if(isset($this->container[$key])){
+
+                $result = $this->container[$key];
+                if(is_object($result['obj'])){
+                    return $result['obj'];
+                }else if(is_callable($result['obj'])){
+                    return $this->container[$key]['obj'];
+                }else if(is_string($result['obj']) && class_exists($result['obj'])){
+                    $reflection = new \ReflectionClass ( $result['obj'] );
+                    $ins =  $reflection->newInstanceArgs ( $result['params'] );
+                    $this->container[$key]['obj'] = $ins;
+                    return $this->container[$key]['obj'];
+                }else{
+                    return $result['obj'];
+                }
             }else{
-                return $result['obj'];
+                return null;
             }
-        }else{
-            return null;
-        }
+
     }
 }

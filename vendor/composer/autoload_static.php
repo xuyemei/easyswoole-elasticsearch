@@ -24,6 +24,10 @@ class ComposerStaticInitd22b04e2740fe34d0cf81e8347d5b539
         array (
             'PhpParser\\' => 10,
         ),
+        'M' => 
+        array (
+            'MysqliDb\\' => 9,
+        ),
         'F' => 
         array (
             'FastRoute\\' => 10,
@@ -58,6 +62,10 @@ class ComposerStaticInitd22b04e2740fe34d0cf81e8347d5b539
         'PhpParser\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
+        ),
+        'MysqliDb\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/App/Vendor/Db/MysqliDb.php',
         ),
         'FastRoute\\' => 
         array (
