@@ -9,14 +9,17 @@
 namespace App\HttpController;
 
 
+use App\Model\Es\EsVideo;
+use EasySwoole\Core\Component\Di;
 use EasySwoole\Core\Http\AbstractInterface\Controller;
+use Elasticsearch\ClientBuilder;
 
 class Index extends Controller
 {
 
     function index()
     {
-        // TODO: Implement index() method.
-        $this->response()->write('hello world');
+        $res = (new EsVideo())->searchByName($this->request()->getRequestParam('name'),'match_phrase');
+        return $this->writeJson(200,$res,'ok');
     }
 }

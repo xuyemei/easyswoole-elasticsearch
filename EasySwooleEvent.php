@@ -19,6 +19,9 @@ use \EasySwoole\Core\Http\Response;
 use App\Lib\Redis\Redis;
 use EasySwoole\Core\Swoole\Time\Timer;
 use EasySwoole\Core\Utility\File;
+use EasySwoole\Core\Swoole\Process\ProcessManager;
+use App\HttpController\Api\Consumer;
+use App\Model\Es\EsClient;
 //use App\Vendor\Db\MysqliDb;
 
 Class EasySwooleEvent implements EventInterface {
@@ -55,6 +58,13 @@ Class EasySwooleEvent implements EventInterface {
     );
 
         Di::getInstance()->set('REDIS', Redis::getInstance());
+        Di::getInstance()->set('ES', EsClient::getInstance());
+
+//  注册3个消费进程
+        $allNum = 3;
+        for ($i = 0 ;$i < $allNum;$i++){
+            ProcessManager::getInstance()->addProcess("consumer_{$i}",Consumer::class);
+        }
 
         //利用crontab实现定时器
        $videoCacheObj = new videoCache();

@@ -5,18 +5,19 @@
  * Date: 2019/11/29 0029
  * Time: 上午 10:48
  */
-namespace EasySwoole;
+namespace App\HttpController\Api;
 
 use EasySwoole\Core\Component\Di;
+use EasySwoole\Core\Component\Logger;
 use EasySwoole\Core\Swoole\Process\AbstractProcess;
 use Swoole\Process;
 
 class Consumer extends AbstractProcess{
 
-    private $isRun;
+    private $isRun=false;
     public  function run(Process $process){
 
-        $this->addTick(500,function (){
+        $this->addTick(1000,function (){
             if(!$this->isRun){
                 $isRun = true;
                 $redis = Di::getInstance()->get('REDIS');
@@ -24,7 +25,9 @@ class Consumer extends AbstractProcess{
                     try{
                         $task = $redis->lpop('task_list');
                         if($task){
-                            echo 123;
+                            //to do 邮件 短信，log等
+                            echo $task;
+                            Logger::getInstance()->log($this->getProcessName().'---'.$task);
                         }else{
                             break;
                         }
@@ -34,7 +37,7 @@ class Consumer extends AbstractProcess{
                 }
                 $this->isRun = false;
             }
-            var_dump($this->getProcessName(). ' task run check');
+//            var_dump($this->getProcessName(). ' task run check');
         });
 
     }

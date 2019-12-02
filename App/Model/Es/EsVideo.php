@@ -5,5 +5,4 @@ class EsVideo extends EsBase {
 
     public $index = 'test_video';
     public $type='video';
-
 }

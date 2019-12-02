@@ -72,11 +72,18 @@ class Base extends Controller
      * @param $data
      * @return array
      */
-    public function getPaginateDatas($total,$data){
+    public function getPaginateDatas($total,$data,$isSplice = 1){
 
         $totalPage = ceil($total/$this->params['size']);
+        if($totalPage > 100){
+            $totalPage = 100;
+        }
         $data = $data ?? [];
-        $data = array_splice($data,$this->params['from'],$this->params['size']);
+        if($isSplice){
+            $data = array_splice($data,$this->params['from'],$this->params['size']);
+
+        }
+
         return [
             'total_page'=>$totalPage,
             'page_size'=>$this->params['size'],
@@ -96,3 +103,16 @@ class Base extends Controller
 //        $this->writeJson(403,'请求不合法',[]) ;
 //    }
 }
+
+/**
+{
+
+"query":{
+"term":{
+"word_count":1000
+}
+
+}
+
+}
+ */

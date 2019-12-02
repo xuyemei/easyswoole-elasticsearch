@@ -62,6 +62,16 @@ class Index extends Base
     }
 
     /**
+     * 播放排行榜 日排，周排，月排
+     */
+    public function rank(){
+
+        $res = Di::getInstance()->get('REDIS')->zrevrange(\Yaconf::get('redis.video_play_num'),0,-1,'withscores');
+        return $this->writeJson(Status::CODE_OK,'ok',$res);
+
+    }
+
+    /**
      * 通过mysql获取list数据
      * @return bool
      */
@@ -143,6 +153,14 @@ class Index extends Base
         } catch (\Exception $e) {
             print $e->getMessage()."\n";
         }
+    }
 
+
+    /**
+     * 发布消息到redis队列
+     */
+    public function pub(){
+        $params = $this->request()->getRequestParam();
+        Di::getInstance()->get('REDIS')->rpush('task_list',$params['list_key']);
     }
 }

@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Model\Es;
 use EasySwoole\Core\Component\Di;
 
